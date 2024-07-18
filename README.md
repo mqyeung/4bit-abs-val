@@ -42,3 +42,7 @@ Half adder can be simplified down, reducing worst case
 # Critical Path Delay
 
 ![alt text](https://github.com/mqyeung/4bit-abs-val/blob/main/critical%20path%20analysis.png?raw=true)
+
+# Testbench
+
+![alt text](https://github.com/mqyeung/4bit-abs-val/blob/main/testbench.png?raw=true)
