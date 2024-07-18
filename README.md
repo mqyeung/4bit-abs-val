@@ -1,2 +1,2 @@
 # 4bit-abs-val
-Optimal 4-Bit Absolute-Value Detector
+4-Bit Optimal Absolute-Value Detector
